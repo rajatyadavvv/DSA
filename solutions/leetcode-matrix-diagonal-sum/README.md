@@ -1,10 +1,10 @@
 # Matrix Diagonal Sum
 
 - **Platform:** leetcode
-- **Difficulty:** Easy
+- **Difficulty:** Unknown
 - **Language:** [object Object]
 - **Link:** https://leetcode.com/problems/matrix-diagonal-sum/submissions/2161206134/
-- **Submitted:** 2026-10-03T15:28:53.974Z
+- **Submitted:** 2026-10-03T15:40:43.096Z
 
 ## Stats
 
