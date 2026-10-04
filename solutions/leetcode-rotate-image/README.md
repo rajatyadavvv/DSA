@@ -1,10 +1,10 @@
 # Rotate Image
 
 - **Platform:** leetcode
-- **Difficulty:** Medium
+- **Difficulty:** Unknown
 - **Language:** [object Object]
 - **Link:** https://leetcode.com/problems/rotate-image/submissions/2161572672/
-- **Submitted:** 2026-10-04T02:28:07.253Z
+- **Submitted:** 2026-10-04T03:02:49.021Z
 
 ## Stats
 
