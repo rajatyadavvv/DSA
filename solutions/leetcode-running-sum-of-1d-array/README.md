@@ -4,7 +4,7 @@
 - **Difficulty:** Easy
 - **Language:** [object Object]
 - **Link:** https://leetcode.com/problems/running-sum-of-1d-array/submissions/2146887732/
-- **Submitted:** 2026-10-04T02:21:43.690Z
+- **Submitted:** 2026-10-04T03:36:17.056Z
 
 ## Stats
 
